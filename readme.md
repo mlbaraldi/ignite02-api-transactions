@@ -1,0 +1,8 @@
+- Projeto utiliza
+  - Sqlite3
+  - Knex como Querybuilder
+  - tsx como runtime
+  - Fastify para criação da api
+  - Zod para validação de schemas (do env)
+  - Vitest - versao melhorada do jest, para utilizar typescript, mais rapido e tem mesma semantica.
+  - supertest - serve para fazer requisições em testes e2e, onde faz uma requisição inteira para a aplicação
